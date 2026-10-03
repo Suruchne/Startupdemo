@@ -1,0 +1,5 @@
+streamlit>=1.38
+pandas>=2.1
+biopython>=1.83
+plotly>=5.20
+
